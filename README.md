@@ -1,6 +1,14 @@
-This fork is for adding Traditional Chinese transliteration support to PineTime.
-You will also need https://github.com/Boteium/InfiniTime for displaying basic Traditional Chinese characters, bopomofo, and japanese kana.
-============
+此版本的 GadgetBridge 包含了中文罕用字替換模組，用來彌補 PineTime 中文字缺字的問題，必需搭配 https://github.com/Boteium/InfiniTime 一起使用
+
+
+This fork is for adding Traditional Chinese transliteration support to PineTime.  
+You will also need https://github.com/Boteium/InfiniTime for displaying basic Traditional Chinese characters, bopomofo, and japanese kana.  
+
+
+<img src="https://raw.githubusercontent.com/Boteium/GadgetBridge/master/demo/demo1.jpg" width="45%" align="left">
+
+<img src="https://raw.githubusercontent.com/Boteium/GadgetBridge/master/demo/demo2.jpg" width="45%" align="left">
+
 Gadgetbridge is now hosted on [codeberg.org](https://codeberg.org/Freeyourgadget/Gadgetbridge/).
 
 <a href="https://codeberg.org/Freeyourgadget/Gadgetbridge/">
