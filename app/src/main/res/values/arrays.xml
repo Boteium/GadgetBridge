@@ -2750,6 +2750,7 @@
         <item>@string/arabic</item>
         <item>@string/bengali</item>
         <item>@string/czech</item>
+        <item>@string/chinese</item>
         <item>@string/estonian</item>
         <item>@string/extended_ascii</item>
         <item>@string/french</item>
@@ -2771,6 +2772,7 @@
         <item>arabic</item>
         <item>bengali</item>
         <item>czech</item>
+        <item>chinese</item>
         <item>estonian</item>
         <item>extended_ascii</item>
         <item>french</item>

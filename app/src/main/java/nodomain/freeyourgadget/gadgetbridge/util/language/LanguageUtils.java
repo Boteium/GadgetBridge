@@ -39,6 +39,7 @@ import nodomain.freeyourgadget.gadgetbridge.util.Prefs;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.ArabicTransliterator;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.BengaliTransliterator;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.CzechTransliterator;
+import nodomain.freeyourgadget.gadgetbridge.util.language.impl.ChineseTransliterator;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.EstonianTransliterator;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.ExtendedAsciiTransliterator;
 import nodomain.freeyourgadget.gadgetbridge.util.language.impl.FlattenToAsciiTransliterator;
@@ -63,6 +64,7 @@ public class LanguageUtils {
         put("arabic", new ArabicTransliterator());
         put("bengali", new BengaliTransliterator());
         put("czech", new CzechTransliterator());
+        put("chinese", new ChineseTransliterator());
         put("estonian", new EstonianTransliterator());
         put("extended_ascii", new ExtendedAsciiTransliterator());
         put("french", new FrenchTransliterator());
